@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 node_modules/
 
@@ -132,3 +133,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+=======
+node_modules/
+>>>>>>> f78ce01 (Added .gitignore file)
